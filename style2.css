@@ -1,0 +1,27 @@
+body {
+  background-image: url(images/태안배경.webp);
+  background-size: cover;
+}
+header {
+  height: 100px;
+  margin: 0 auto;
+}
+#wrap {
+  width: 950px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.aside {
+  width: 100px;
+  float: left;
+}
+.content {
+  background: rgb(28, 28, 28);
+  padding: 20px;
+}
+h1,
+h2,
+p,
+form {
+  color: aliceblue;
+}
